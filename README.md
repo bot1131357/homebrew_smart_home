@@ -15,10 +15,10 @@ Here is where I journal my road down the dirty, dirty adventures that I've had w
  
 But hey, some of us learn by making mistakes. 
 
-[The big picture](https://thebest404pageever.com)
-[Starting Raspberry Pi](https://thebest404pageever.com)
-[Development with ESP8266](https://thebest404pageever.com)
-[Butchering my table lamp](https://thebest404pageever.com)
-[Setting up Node-Red](https://thebest404pageever.com)
+ - [The big picture](https://thebest404pageever.com)
+ - [Starting Raspberry Pi](https://thebest404pageever.com)
+ - [Development with ESP8266](https://thebest404pageever.com)
+ - [Butchering my table lamp](https://thebest404pageever.com)
+ - [Setting up Node-Red](https://thebest404pageever.com)
 
 
