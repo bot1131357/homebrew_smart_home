@@ -1,4 +1,3 @@
-# homebrew_smart_home
 ## Adventures of Homebrew Smart Home
 
 Having a smart home has been a dream I have had since 2003. My head was always briming with smart home ideas. A home that pays attention to us - who wouldn't want that? (Clearly I was an attention seeker. And still is.) 
@@ -15,5 +14,11 @@ Here is where I journal my road down the dirty, dirty adventures that I've had w
  
  
 But hey, some of us learn by making mistakes. 
+
+[The big picture](https://thebest404pageever.com)
+[Starting Raspberry Pi](https://thebest404pageever.com)
+[Development with ESP8266](https://thebest404pageever.com)
+[Butchering my table lamp](https://thebest404pageever.com)
+[Setting up Node-Red](https://thebest404pageever.com)
 
 
